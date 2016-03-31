@@ -10,7 +10,7 @@ Rails.application.configure do
   # Rake tasks automatically ignore this option for performance.
   config.eager_load = true
 
-  config.action_mailer.default_url_options = { host: 'http://pinteresting-commits.herokuapp.com/' }
+  config.action_mailer.default_url_options = { host: 'https://agile-cove-82302.herokuapp.com/' }
   # Full error reports are disabled and caching is turned on.
   config.consider_all_requests_local       = false
   
