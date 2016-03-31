@@ -1,4 +1,5 @@
 # ![JournalApp](images/journalapp.png =200x200)
+<img src="journalapp.png" alt="Journal App" style="width: 200px;"/>
 > Increasing the value of journaling by lowering the barriers to action
 
 Most journal apps are designed as “a place for user to keep their secret and private thoughts.”
