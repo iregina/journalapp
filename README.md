@@ -1,4 +1,5 @@
 # ![JournalApp](images/journalapp.png)
+# JournalApp
 > Increasing the value of journaling by lowering the barriers to action
 
 Most journal apps are designed as “a place for user to keep their secret and private thoughts.”
