@@ -7,6 +7,9 @@ Most journal apps are designed as “a place for user to keep their secret and p
 We've created an app designed to help you remember the details of your life first — with the notion of protecting private thoughts secondary.
 Given the change in mindset from “harboring secrets” to “remembering more things,” we'll be adding a social component to help increase engagement.
 
+####[Medium Post](https://medium.com/@xsvfat/daily-journal-app-design-case-study-2b0826d10fa2#.2fsvliqzd)
+
+
 ## Team
 
 Our core project team composed of:
