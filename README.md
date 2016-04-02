@@ -20,10 +20,10 @@ Sean is a Senior UX/UI Designer at IBM who originally created the idea of Journa
 
 #### [Regina Wong](https://github.com/iregina/) - Developer
 
-Regina is a freelance web developer who previously worked in technology startups, such as Groupon. She who leads core development, quality control and application design for the project
+Regina is a freelance web developer who previously worked in technology companies, including Groupon. She leads core development, quality control and application design for the project.
 
 ## License
 
 Everything in this repo is MIT License unless otherwise specified.
 
-MIT © Regina Wong, Sean yang.
+MIT © Regina Wong, Sean Yang.
